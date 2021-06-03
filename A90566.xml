@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition from the City of London with a covenant in the name of divers collonels, and other officers, and apprentices, and sea-men; for the raising of forces against the army, and bringing the King to London. VVith the votes of the House of Commons concerning the said petition. And the Parliaments message to the Lord Mayor about the same.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90566</idno><idno type="EEBO-CITATION">99862233</idno>
+  <idno type="VID">114384</idno>
+  <idno type="EEBO-PROQUEST">2240914135</idno>
+  
+            <idno type="STC">Wing P1753</idno>
+            <idno type="STC">Thomason E399_35</idno>
+            <idno type="STC">ESTC R201734</idno>
+            <idno type="PROQUEST">99862233</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862233e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114384)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition from the City of London with a covenant in the name of divers collonels, and other officers, and apprentices, and sea-men; for the raising of forces against the army, and bringing the King to London. VVith the votes of the House of Commons concerning the said petition. And the Parliaments message to the Lord Mayor about the same.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th Century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114384:1"/>
+            <p>A PETITION FROM THE CITY of <hi>LONDON</hi> WITH A COVENANT IN THE Name of divers Collonels, and other Of<g ref="char:EOLhyphen"/>ficers, and Apprentices, and Sea-men; For the raising of Forces against the Army, and bringing the <hi>KING</hi> to <hi>LONDON.</hi>
+            </p>
+            <p>VVith the Votes of the House of Com<g ref="char:EOLhyphen"/>mons concerning the said Petition.</p>
+            <p>And the Parliaments Message to the Lord Mayor about the same.</p>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114384:2"/>
+            <pb n="1" facs="tcp:114384:2"/>
+            <head>Heads of a PETITION <hi>From the City of</hi> LONDON: WITH A Covenant, in the name of divers Collonels, and other Officers, and Ap<g ref="char:EOLhyphen"/>prentices and Sea-men, for the raising of Forces against the Army, and bringing the KING to <hi>London.</hi>
+            </head>
+            <p>FIRST.</p>
+            <p>THat the Kings Majesty may passe the propositions which himselfe offered in his message from <hi>Holmeby,</hi> in answer to the Parliaments propositions, which
+<pb n="2" facs="tcp:114384:3"/> were sent to his Majesty to <hi>Newcastle</hi> (both concerning the settling of the <hi>Presbyterian</hi> Government, disposing of the Militia, pas<g ref="char:EOLhyphen"/>sing Acts done by the great Seales on both sides, and other particulars,) as they are expressed in the said message</p>
+            <p n="2">2 That upon the passing of the said pro<g ref="char:EOLhyphen"/>positions made into Acts, his Majestie may bee re-invested in his honours and rights.</p>
+            <p n="3">3 That his Majesty may be brought to <hi>London</hi> to reside with his Parliament and sit and continue with them.</p>
+            <p n="4">4 That the Army may be kept at a dist<g ref="char:EOLhyphen"/>ance, at his Majesties comming to <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </p>
+            <p n="5">5 That all <hi>Newters,</hi> may be turned out of the City.</p>
+            <p n="6">6 By oath, (and by a covenant expres<g ref="char:EOLhyphen"/>sed in the said petition) they ingage them<g ref="char:EOLhyphen"/>selves by all the oaths and covenants that they have taken to manage this designe a<g ref="char:EOLhyphen"/>gainst all opposers.</p>
+            <p n="7">7 To oppose the Army.</p>
+            <p n="8">8 To suppresse all <hi>Independents,</hi>
+            </p>
+            <p n="9">
+               <pb n="3" facs="tcp:114384:3"/>9 That it be read at a Common-hall.</p>
+            <p>
+               <hi>The said Petition is dispersed into severall parts of</hi> London, <hi>and intrusted in the hands of Agitators in the severall Wards, to get hands to it, and some solicite Apprentises for hands, and others Agitate with Watermen, and Seamen.</hi>
+            </p>
+            <p>
+               <hi>Those who agitated with the Seamen, made so plausible a Narrative of the businesse, that many Seamen gave them a meeting, and after they had heard it read, began to subscribe.</hi>
+            </p>
+            <p>
+               <hi>But some of them prying into it, found some faults, and said, it was of dangerous consequence, and that they would never ingage against Sir</hi> Thomas Fairfax, <hi>and his Army.</hi>
+            </p>
+            <p>
+               <hi>Then the rest cryed out to have their hands a<g ref="char:EOLhyphen"/>gain, which they forced from the agitators, and then all cryed, home, home.</hi>
+            </p>
+            <p>
+               <hi>Some Petitions were left with some of the chief<g ref="char:EOLhyphen"/>est Officers in the City of</hi> London, <hi>to agitate in getting hands, who refused, though some others have been very active in it.</hi>
+            </p>
+            <p>
+               <hi>Some who are eminent, excuse it thus: That their other imployments will not permit them to do any thing in it▪</hi>
+            </p>
+            <pb n="4" facs="tcp:114384:4"/>
+            <p>
+               <hi>But others, (and those not the least in the City) said that they will to their power labour to defend the City, whilest they have one drop of blood in their bo<g ref="char:EOLhyphen"/>dies, but that in this case to engage against an Army in the field, where there are no other grounds or causes, then now visible: They will not be guil<g ref="char:EOLhyphen"/>ty of spilling one drop of blood. But labour all they can for a sure and lasting peace.</hi>
+            </p>
+            <div type="response_to_petition">
+               <head>
+                  <l>The Votes of the House of Commons concerning the foresaid Petition,</l>
+                  <l>And the Parliaments Message to the Lord Mayor about the same.</l>
+               </head>
+               <pb n="5" facs="tcp:114384:4"/>
+               <opener>
+                  <dateline>
+                     <date>Die Jovis 22 July, 1647.</date>
+                  </dateline>
+               </opener>
+               <p>A Member of the House of Com<g ref="char:EOLhyphen"/>mons, declared to the House a paper in the name of a Petition from divers Collonels, &amp;c. in the City; And the House taking the same into consideration, and the dangerous consequence thereof, proceeded to a way for suppressing it.</p>
+               <p n="1">
+                  <hi>I. It was Resolved by the Com<g ref="char:EOLhyphen"/>mons in Parliament Assembled,</hi>
+               </p>
+               <p>That</p>
+               <p>Members of the House of Commons, examine the said Peti<g ref="char:EOLhyphen"/>tion, and who were the contrivers, and promoters therof, and report the same to the House.</p>
+               <p n="2">
+                  <pb n="6" facs="tcp:114384:5"/>
+                  <hi>II. It was Resolved by the Commons Assembled in Parliament</hi>
+               </p>
+               <p>That Alderman <hi>Pennington,</hi> Al<g ref="char:EOLhyphen"/>derman <hi>Atkin,</hi> and Collonell <hi>Venn,</hi> Members of the House of Com<g ref="char:EOLhyphen"/>mons, goe to the Lord Mayor of the City of <hi>London,</hi> to desire his Lord<g ref="char:EOLhyphen"/>ship (from this House) to take care to suppresse all tumults, and prevent Mutinies, and insurrections in the City of <hi>London.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
